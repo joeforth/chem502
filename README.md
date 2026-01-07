@@ -1,5 +1,6 @@
 # CHEM502 - Workshop Material
-Workshops for CHEM501 part 1 - Introduction to Data Science.
+
+### Workshops for CHEM501 part 1 - Introduction to Data Science.
 
 This part of the course happens in the first 4 weeks of CHEM502 and covers:
 
