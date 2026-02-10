@@ -4,4 +4,4 @@ matplotlib
 seaborn
 requests
 rdkit
-
+ipywidgets
