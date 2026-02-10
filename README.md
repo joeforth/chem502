@@ -5,15 +5,15 @@
 This part of the course happens in the first 4 weeks of CHEM502 and covers:
 
 1. Exploratory Data Analysis
-2. Cheminformatics
+2. Cheminformatics with RDKit
 3. Introductory Machine Learning for Chemistry
-4. More Introductory Machine Learning
+4. Data in the Automated Lab
 
 Workshop materials will be uploaded the week of the workshop. Workshop solutions will be posted after the due date of each assignment.
 
 Workbooks will be uploaded the week of each Workshop. Each workbook will have its own requirements.txt file containing the the python modules you need for each workshop.
 
-To install the modules, open a terminal and run (in this case, for Workshop 1):
+To install the modules, cd into the director containing the repo, open a terminal and run (in this case, for Workshop 1):
 
 ```bash
 conda create -n workshop1
